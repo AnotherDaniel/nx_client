@@ -1,8 +1,8 @@
 # nx_client
 
-Usage: ```nx_client.sh [-h] [-c <configfile>] [-u <file> -f | -p | -d | -o] <destination>```
-
 Nextcloud cli for downloading/uploading/deleting files
+
+Usage: ```nx_client.sh [-h] [-c <configfile>] [-u <file> -f | -p | -d | -o] <destination>```
 
 <`destination`> is the location on your nextcloud file server instance, starting from the root folder.
 Nextcloud credentials and settings are sourced from ~/.nx_client
